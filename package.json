@@ -1,0 +1,15 @@
+{
+  "name": "api-page",
+  "version": "1.0.0",
+  "description": "a page for testing out some api's ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  }
+}
